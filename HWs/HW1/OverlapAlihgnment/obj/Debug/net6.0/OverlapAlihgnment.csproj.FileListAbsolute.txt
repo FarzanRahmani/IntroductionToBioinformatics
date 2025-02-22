@@ -1,0 +1,15 @@
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\bin\Debug\net6.0\OverlapAlihgnment.exe
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\bin\Debug\net6.0\OverlapAlihgnment.deps.json
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\bin\Debug\net6.0\OverlapAlihgnment.runtimeconfig.json
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\bin\Debug\net6.0\OverlapAlihgnment.dll
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\bin\Debug\net6.0\OverlapAlihgnment.pdb
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.csproj.AssemblyReference.cache
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.GeneratedMSBuildEditorConfig.editorconfig
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.AssemblyInfoInputs.cache
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.AssemblyInfo.cs
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.csproj.CoreCompileInputs.cache
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.dll
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\refint\OverlapAlihgnment.dll
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.pdb
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\OverlapAlihgnment.genruntimeconfig.cache
+E:\sharif uni\1st term\Introduction to Bioinformatics\HWs\HW1\OverlapAlihgnment\obj\Debug\net6.0\ref\OverlapAlihgnment.dll
