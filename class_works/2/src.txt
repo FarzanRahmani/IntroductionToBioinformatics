@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Bitap_algorithm
+
+https://www.educative.io/answers/shift-or-string-matching-algorithm
